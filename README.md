@@ -15,10 +15,12 @@ It includes tables for categories, customers, employees, orders, products, shipp
 
 1. *Create the database:*
 ```sql
+
 CREATE DATABASE NorthwindMini;
 GO
 USE NorthwindMini;
 GO
+
 
 2.	Run the script:
 
