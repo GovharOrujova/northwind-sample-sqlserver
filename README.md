@@ -54,3 +54,4 @@ After execution, the project provides:
 ## 👤 About Me
 📩 Contact: [govharorucova@outlook.com] 
 🌐 GitHub: [My GitHub Profile](https://github.com/GovharOrujova)
+- [https://www.linkedin.com/in/govhar-orujova-64333b369/]  
