@@ -28,6 +28,7 @@ It can be used to answer analytical questions such as:
 ## 📤 Outputs
 ![SQL Server](sqlproject_1.png)
   
+ 
   After execution, the project provides:
 - A fully functional *SQL Server* Northwind-style database
 - *Complete relationships* between tables (foreign keys)
